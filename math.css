@@ -1,0 +1,93 @@
+
+/** CALCULA MATEMATICA **/
+*{
+    font-family: Helvetica !important;
+}
+
+.blocos {
+    width: 100%;
+}
+
+
+.centerh1 {
+    text-align: center;
+}
+
+
+.icon {
+    height: 15px;
+    width: 15px;
+    float: right;
+    position: relative;
+    right: 20%;
+    top: 3px;
+}
+
+#sign {
+    float: right;
+    font-size: 10px;
+    font-family: 'Stalemate', cursive;
+}
+#respostapitagoras {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#breakall {
+    margin-left: 20%;
+    display: inline-block;
+    text-align: center;
+    width: 60%;
+    background-color: #FEFEFE;
+    background-color: rgba(175, 175, 180, 0.3);
+    background-size: 50% 50%;
+    border-radius: 30px;
+    margin-bottom: 60px;
+}
+
+bottom {
+    text-align: center;
+    font-size: small;
+}
+
+bottom p {
+    margin: 5px 50px;
+    font-family: 'Poiret One', cursive;
+}
+button {
+    margin-top: 8px;
+    font-size: 10px;
+}
+
+body {
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#7db9e8+51,95a7af+100&0+48,1+86 */
+background: -moz-radial-gradient(center, ellipse cover,  rgba(125,185,232,0) 48%, rgba(125,185,232,0.08) 51%, rgba(142,172,191,1) 86%, rgba(149,167,175,1) 100%); /* FF3.6-15 */
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(48%,rgba(125,185,232,0)), color-stop(51%,rgba(125,185,232,0.08)), color-stop(86%,rgba(142,172,191,1)), color-stop(100%,rgba(149,167,175,1))); /* Chrome4-9,Safari4-5 */
+background: -webkit-radial-gradient(center, ellipse cover,  rgba(125,185,232,0) 48%,rgba(125,185,232,0.08) 51%,rgba(142,172,191,1) 86%,rgba(149,167,175,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: -o-radial-gradient(center, ellipse cover,  rgba(125,185,232,0) 48%,rgba(125,185,232,0.08) 51%,rgba(142,172,191,1) 86%,rgba(149,167,175,1) 100%); /* Opera 12+ */
+background: -ms-radial-gradient(center, ellipse cover,  rgba(125,185,232,0) 48%,rgba(125,185,232,0.08) 51%,rgba(142,172,191,1) 86%,rgba(149,167,175,1) 100%); /* IE10 preview */
+background: radial-gradient(ellipse at center,  rgba(125,185,232,0) 48%,rgba(125,185,232,0.08) 51%,rgba(142,172,191,1) 86%,rgba(149,167,175,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#007db9e8', endColorstr='#95a7af',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+;
+margin: 0;
+}
+
+h2 {
+    font-family: 'Poiret One', cursive;
+    color: white; 
+}
+
+h3 {
+    font-family: 'Poiret One', cursive;
+}
+
+p {
+    font-family: 'Mate SC', serif;
+}
+
+header {
+    background-color: #000000;
+    padding: 2px 5px 10px 5px;
+    margin-bottom: 35px;
+}
+
